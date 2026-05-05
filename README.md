@@ -1,8 +1,8 @@
 README
 # Hi, I'm Olujide Stephen Adesina 👋
 
-**Cybersecurity Consultant · AI Agent Developer · Founder & CISO @ Paydsecure Inc**  
-📍 Houston, Texas | 🔐 Securing systems. ⚡ Streaming data. 🤖 Building intelligent agents.
+** Energy Trading Systems Architect | Endur ETRM/CTRM/FindUR | Apache Kafka & Event Streaming | AI/ML Security | Shadow AI & Threat Detection | Sentinel | Cloud Solution Architect,| AWS & Azure | Bloomberg Integration|Cybersecurity Consultant | AI Agent Developer | Founder & CISO @ Paydsecure Inc**  
+📍 Houston, Texas | 🔐 Securing systems| ⚡ Streaming data| 🤖 Building intelligent agents.
 
 ---
 
