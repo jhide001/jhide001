@@ -1,19 +1,21 @@
-README
 # Hi, I'm Olujide Stephen Adesina 👋
 
- Energy Trading Systems Architect | Endur ETRM/CTRM/FindUR | Apache Kafka & Event Streaming | AI/ML Security | Shadow AI & Threat Detection | Sentinel | Cloud Solution Architect,| AWS & Azure | Bloomberg Integration|Cybersecurity Consultant | AI Agent Developer | Founder & CISO @ Paydsecure Inc  
-📍 Houston, Texas | 🔐 Securing systems| ⚡ Streaming data| 🤖 Building intelligent agents.
+**Energy Trading Systems Architect · Cybersecurity Consultant · AI Agent Developer · Founder & CISO @ Paydsecure Inc**
+
+📍 Houston, Texas | 🔐 Securing systems | ⚡ Streaming data | 🤖 Building intelligent agents
 
 ---
 
 ## 🧠 About Me
 
-I sit at the intersection of **cybersecurity**, **AI**, and **real-time data engineering**. With over a decade of experience spanning cloud security, identity & access management, and energy trading systems, I build things that are both resilient and intelligent.
+I operate at the intersection of **energy trading technology**, **cybersecurity**, and **AI automation**. With over a decade of experience across cloud security, identity & access management, real-time data streaming, and enterprise trading systems, I build solutions that are resilient, intelligent, and production-ready.
 
-- 🏢 Founder & CISO at **[Paydsecure Inc](https://paydsecure.com)** — securing payment infrastructure
-- 🔬 Currently focused on **AI Agent development** and **fraud detection pipelines**
-- 🛡️ Certified cybersecurity professional (CyberArk, Google Cloud Architect, CISSP)
-- 🌍 Previously: Infosys · Citizens Bank · IBEW · HP Software
+- 🏢 Founder & CISO at **Paydsecure Inc** — securing payment infrastructure for the modern enterprise
+- ⚡ Enterprise **Endur ETRM/CTRM/FindUR** Solution Architect with deep expertise in energy trading systems
+- 🌊 Real-time **Apache Kafka & Event Streaming** engineer for fraud detection and trade pipelines
+- 🛡️ Specialist in **AI/ML Security**, Shadow AI & Threat Detection, and Sentinel SIEM
+- ☁️ Cloud Solution Architect across **AWS & Azure** with Bloomberg Integration experience
+- 🤖 Building next-generation **AI Agents** for security automation and financial workflows
 - 📚 MIT xPRO | Lagos State University | Purdue University | Harvard
 
 ---
@@ -21,36 +23,36 @@ I sit at the intersection of **cybersecurity**, **AI**, and **real-time data eng
 ## 🚀 Featured Projects
 
 ### 🔴 [`kaka-fintech-platform`](https://github.com/jhide001/kaka-fintech-platform)
-> Real-time Kafka streaming platform for **fraud detection** and **energy trading**  
+> Real-time Kafka streaming platform for **fraud detection** and **energy trading**
 > `Python` · `Apache Kafka` · `Streaming` · `FinTech`
 
 ### ⚡ [`endur-kafka-pipeline`](https://github.com/jhide001/endur-kafka-pipeline)
-> Shell ETRM Kafka Integration — Endur trade streaming pipeline  
+> Shell ETRM Kafka Integration — Endur trade streaming pipeline
 > `Shell` · `HTML` · `ETRM` · `Energy Trading`
 
 ### 🤖 [`fraud-ai-agent`](https://github.com/jhide001/fraud-ai-agent)
-> AI-powered agent for real-time fraud detection and response  
+> AI-powered agent for real-time fraud detection and response
 > `Python` · `AI Agents` · `Security Automation`
 
 ### 🏗️ [`advanced-terraform`](https://github.com/jhide001/advanced-terraform-2823489)
-> Advanced Terraform infrastructure-as-code patterns  
+> Advanced Terraform infrastructure-as-code patterns for enterprise cloud
 > `HCL` · `Terraform` · `Cloud Infrastructure`
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Security**  
-`CyberArk` · `IAM` · `SIEM` · `SOX/ITGC` · `Cloud Security` · `Zero Trust`
+**Energy Trading & Finance**
+`Endur ETRM` · `CTRM` · `FindUR` · `Bloomberg Integration` · `Apache Kafka` · `Event Streaming`
 
-**Data & Streaming**  
-`Apache Kafka` · `Python` · `Shell` · `Endur ETRM`
+**Cybersecurity**
+`CyberArk` · `IAM` · `Sentinel SIEM` · `Shadow AI Detection` · `AI/ML Security` · `SOX/ITGC` · `Zero Trust`
 
-**Cloud & DevOps**  
-`Terraform` · `Google Cloud` · `AWS` · `Docker` · `CI/CD`
+**Cloud & DevOps**
+`AWS` · `Azure` · `Google Cloud` · `Terraform` · `Docker` · `CI/CD`
 
-**AI & Automation**  
-`AI Agents` · `LLM Integration` · `Fraud Detection` · `Workflow Automation`
+**AI & Automation**
+`AI Agents` · `LLM Integration` · `Fraud Detection` · `Workflow Automation` · `Python`
 
 ---
 
