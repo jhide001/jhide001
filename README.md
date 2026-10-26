@@ -1,6 +1,6 @@
 # Hi, I'm Olujide Stephen Adesina 👋
 
-**Energy Trading Systems Architect · Cybersecurity Consultant · AI Agent Developer · Founder & CISO @ Paydsecure Inc**
+**Energy Trading Systems Architect · Cybersecurity Consultant · AI Agent Developer · Founder & CISO @ Paydsecure Inc, iBan Mobility Technologies** www.ibanmobility.com  www.ibanmobilityusa.com
 
 📍 Houston, Texas | 🔐 Securing systems | ⚡ Streaming data | 🤖 Building intelligent agents
 
